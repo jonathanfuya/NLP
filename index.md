@@ -1,23 +1,13 @@
 # Procesamiento de lenguaje natural
 
-You can use the [editor on GitHub](https://github.com/jonathanfuya/NLP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En este repositorio les mostraré distintas estrategias para procesar textos.
+
+## Listado de ejercicios NLP
+
+* [Adquisición de Textos](https://nbviewer.jupyter.org/github/jonathanfuya/NLP/blob/master/Taller%2002%20-%20Adquisici%C3%B3n%20de%20Textos.ipynb) Se realiza cargue de archivos planos y Web Scraping a biografias de wikipedia.
+
+* [Extracción, pre-procesamiento y normalización de textos](https://nbviewer.jupyter.org/github/jonathanfuya/NLP/blob/master/Taller%2003%20-%20Extracci%C3%B3n%2C%20pre-procesamiento%20%20y%20normalizaci%C3%B3n%20de%20textos.ipynb) Se realiza cargue de un archivo plano,pre-procesamiento de texto, tokenización de los datos, se quitan palabras vacias y Stemming de texto.
+
+* [Feature Engineering](https://nbviewer.jupyter.org/github/jonathanfuya/NLP/blob/master/Taller%2004%20-%20Feature%20Engineering.ipynb) Se realiza pre-procesamiento de texto, representación vectorial y n-gramas.
 
 
-
-## Listado de talleres de NLP
-
-### Taller 2 - Adquisición de Textos
-Se realiza cargue de archivos con poemas y Web Scraping a biografias de wikipedia
-[Adquisición de Textos NLP](https://github.com/jonathanfuya/NLP/blob/master/Taller%2002%20-%20Adquisici%C3%B3n%20de%20Textos.ipynb)
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonathanfuya/NLP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
