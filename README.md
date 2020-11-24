@@ -1,2 +1,2 @@
 # NLP
-Repositorio de mis proyectos NLP
+Repositorio de ejercicios NLP
