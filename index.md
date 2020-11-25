@@ -23,3 +23,5 @@ En este repositorio les mostraré distintas estrategias para procesar textos.
 * [Twitter](https://nbviewer.jupyter.org/github/jonathanfuya/NLP/blob/master/Taller%2010%20-%20Twitter.ipynb) Se extraen tuits, se les realiza pre-procesamiento y se realizan algunas visualizaciones.
 
 * [Análisis de sentimiento](https://nbviewer.jupyter.org/github/jonathanfuya/NLP/blob/master/Taller%2011%20-%20Sentimiento.ipynb) Se extraen tuits, se aplica un modelos de analisis basados en reglas para calificar los sentimientos y se hacen algunas visualizaciones.
+
+* [Análisis de sentimiento reseñas de pliculas](https://nbviewer.jupyter.org/github/jonathanfuya/NLP/blob/master/Análisis%20de%20sentimiento%20sobre%20reseñas%20de%20películas.ipynb) Se cargan reseñas de peliculas, se realiza análisis de sentimiento y se hacen algunas visualizaciones.
